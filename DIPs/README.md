@@ -24,7 +24,7 @@
 |[1024](./accepted/DIP1024.md)|                        Shared Atomics|              |
 |[1029](./accepted/DIP1029.md)|     Add `throw` as Function Attribute|              |
 |[1030](./accepted/DIP1030.md)|                       Named Arguments|              |
-|[1034](./accepted/DIP1034.md)|            Add a Bottom Type (reboot)|              |
+|[1034](./accepted/DIP1034.md)|            Add a Bottom Type (reboot)| 2.097.0      |
 
 ## Rejected DIPs
 |                           ID|                                 Title|
